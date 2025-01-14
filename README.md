@@ -1,3 +1,7 @@
+
+![](https://github.com/witchan/any-nop-plugin/blob/main/use-example.gif?raw=true)
+---
+
 # any-nop-plugin
 
 This is an IDA Pro plugin that batch replaces the input assembly instructions with `nop`. The plugin is written using IDAPython, providing a simple way to modify assembly instructions within IDA Pro.
@@ -39,6 +43,7 @@ To activate the plugin, use the shortcut:
 `Control + Option + N`
 
 ---
+
 
 > 提示：阅读此文档的过程中遇到任何问题，请关注公众号【*移动端Android和iOS开发技术分享*】或联系 +99 君羊【*812546729*】
 
