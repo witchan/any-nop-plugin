@@ -1,0 +1,6 @@
+{ "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "Any Nop Plugin - WitChan",
+    "entryPoint": "any-nop-plugin.py"
+  }
+}
